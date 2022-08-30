@@ -1,0 +1,1 @@
+{<img src="https://api.codeclimate.com/v1/badges/9d50dd1aa715e040af76/maintainability" />}[https://codeclimate.com/github/Consulus/frontend-project-lvl1/maintainability]
